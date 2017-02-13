@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6995e5f4125da4bd183d041c1e88ea91
+timeCreated: 1466599632
+licenseType: Free
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder:
+    RealSpace3D.RealSpace3D_AudioListener: -900
+    RealSpace3D.RealSpace3D_AudioSource: -800
+    RealSpace3D.RealSpace3D_AudioSource_SpatialParameters: -700
+    RealSpace3D.RealSpace3D_Occluder: -500
+    RealSpace3D.RealSpace3D_VirtualRoom: -600
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
